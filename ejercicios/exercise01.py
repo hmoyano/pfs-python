@@ -3,9 +3,7 @@
 # data: 02/03/2022
 
 
-# Declaración de variables
-
-valorA = int(input('Intruduce el valor de A:'))
+valorA = int(input('Introduce el valor de A:'))
 valorB = int(input('Introduce el valor de B:'))
 
 suma = valorA + valorB
@@ -14,8 +12,8 @@ mult = valorA * valorB
 div = valorA / valorB
 mod = valorA % valorB
 
-print(suma)
-print(resta)
-print(mult)
-print(div)
-print(mod)
+print('la suma es',suma)
+print('la resta es',resta)
+print('la multiplicación es',mult)
+print('la división es', div)
+print('el resto o modulo es',mod)
