@@ -3,6 +3,7 @@
 # data: 09/03/2022
 
 def ex06():
+
     A = int(input('Introduce el valor de A:'))
     B = int(input('Introduce el valor de B:'))
 
